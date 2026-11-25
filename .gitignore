@@ -1,0 +1,6 @@
+# Runtime local SQLite database & temporary files
+*.db
+*.db-journal
+*.db-wal
+*.db-shm
+selftest_*.txt
